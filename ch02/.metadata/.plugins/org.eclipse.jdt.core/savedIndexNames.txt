@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/chibakotaro/study/Java/sukkiriJava/ch02/.metadata/.plugins/org.eclipse.jdt.core
+1555235333.index
+462964749.index
